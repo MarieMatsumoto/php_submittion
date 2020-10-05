@@ -20,7 +20,14 @@
     <main>
         <h2>PHPの練習</h2>
         <pre>
-
+        <?php  ?>
+        <img src="" alt="">
+<div>
+    <img src="" alt="">
+</div>
+<div>
+    <img src="" alt="">
+</div>
        <?php
        $file = file_get_contents('https://h2o-space.com/feed/json');
         $json = json_decode($file);
