@@ -18,7 +18,7 @@
     </header>
 
     <main>
-        <h2>画面に文章を表示する</h2>
+        <h2>PHPの練習</h2>
         <pre>
 
        <?php
